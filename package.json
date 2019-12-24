@@ -37,6 +37,7 @@
     "memoizee": "^0.4.11",
     "ramda": "^0.21.0",
     "request": "^2.88.0",
+    "google-play-scraper": "^7.0.1",
     "throttled-request": "^0.1.1"
   },
   "engines": {
